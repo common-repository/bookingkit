@@ -1,0 +1,126 @@
+# Copyright (C) 2016 bookingkit
+# This file is distributed under the same license as the bookingkit package.
+msgid ""
+msgstr ""
+"Project-Id-Version: bookingkit 0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/bookingkit\n"
+"POT-Creation-Date: 2016-09-28 18:17+0200\n"
+"PO-Revision-Date: 2016-09-28 18:28+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: bookingkit.php:22 bookingkit.php:137
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: bookingkit.php:23
+msgid "Info"
+msgstr "Info"
+
+#: bookingkit.php:41
+msgid "bookingkit Options"
+msgstr "bookingkit Optionen"
+
+#: bookingkit.php:88
+msgid ""
+"To configure your bookingkit plugin, you need to <a href=\"https://info."
+"bookingkit.de/wordpress\">create an account</a> and copy your bookingkit "
+"code from \"Marketing\" -> \"Website\" on"
+msgstr ""
+"Um Ihr bookingkit Plugin zu konfigurieren, müssen Sie ein <a href=\"https://"
+"info.bookingkit.de/wordpress\">Konto erstellen</a> und Ihren bookingkit Code "
+"von folgender Seite (\"Vermarktung\" -> \"Webseite\") kopieren:"
+
+#: bookingkit.php:88
+msgid ""
+"Afterwards you just need to activate the plugin in the bookingkit box of the "
+"posts and pages, where you want to display your events."
+msgstr ""
+"Anschließend müssen Sie nur das Plugin in der bookingkit Box Ihrer Beiträge "
+"aktivieren."
+
+#: bookingkit.php:93
+msgid "bookingkit Code"
+msgstr "bookingkit-Code"
+
+#: bookingkit.php:98
+msgid "Please copy your bookingkit code from \"Marketing\" -> \"Website\" on"
+msgstr ""
+"Bitte kopieren Sie den Bookingkit Code aus \"Vermarktung\"-> \"Webseite\" auf"
+
+#: bookingkit.php:103
+msgid "Save changes"
+msgstr "Änderungen übernehmen"
+
+#: bookingkit.php:119
+msgid "bookingkit Settings"
+msgstr "bookingkit Einstellungen"
+
+#: bookingkit.php:132
+msgid ""
+"If you would like to display all of your events, just click Active. If you "
+"would like to display a specific event, copy the code for this event from "
+"the marketing page on"
+msgstr ""
+"Wenn Sie alle Ereignisse anzeigen möchten, klicken Sie auf Aktiv. Wenn Sie "
+"ein bestimmtes Ereignis anzeigen möchten, kopieren Sie den Code für dieses "
+"Ereignis von der Marketing-Seite auf"
+
+#: bookingkit.php:132
+msgid ""
+"You can place your events within your page or post by adding [bookingkit] in "
+"your content."
+msgstr ""
+"Sie können Ihre Veranstaltungen innerhalb Ihrer Seite integrieren, indem Sie "
+"[bookingkit] in Ihrem Text eingeben."
+
+#: bookingkit.php:136
+msgid "Please configure bookingkit in the"
+msgstr "Bitte konfigurieren Sie bookingkit in den"
+
+#: bookingkit.php:146
+msgid "Active"
+msgstr "Aktiv"
+
+#. Plugin Name of the plugin/theme
+#. Author of the plugin/theme
+msgid "bookingkit"
+msgstr "bookingkit"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/bookingkit/"
+msgstr "http://wordpress.org/plugins/bookingkit/"
+
+#. Description of the plugin/theme
+msgid ""
+"Integrate bookingkit easily in your website. Allow your users to book your "
+"services. Learn more about bookingkit on <a href=\"http://info.bookingkit.de/"
+"wordpress\">bookingkit.de</a>."
+msgstr ""
+"Integrieren Sie bookingkit einfach in Ihre Website. Lassen Sie Ihre Benutzer "
+"Ihre Dienstleistungen buchen. Erfahren Sie mehr über bookingkit auf <a href="
+"\"http://info.bookingkit.de/wordpress\">bookingkit.de</a>."
+
+#. Author URI of the plugin/theme
+msgid "https://bookingkit.de"
+msgstr "https://bookingkit.de"
+
+#~ msgid ""
+#~ "To configure your bookingkit, you need to create an account and copy your "
+#~ "bookingkit code from your marketing page on"
+#~ msgstr ""
+#~ "Um Ihr bookingkit Plugin zu konfigurieren, müssen Sie ein Konto erstellen "
+#~ "und Ihren bookingkit Code aus Ihrer Marketing-Seite kopieren"
+
+#~ msgid "Please copy your bookingkit code from your marketing page on"
+#~ msgstr ""
+#~ "Bitte kopieren Sie Ihre bookingkit Code aus Ihrer Marketing-Seite auf"
+
+#~ msgid "Please copy your snippet from your marketing page on"
+#~ msgstr "Bitte kopieren Sie Ihr Snippet von der Marketing-Seite auf"
